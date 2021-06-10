@@ -1,0 +1,32 @@
+enable  : true
+title   : Our Process
+# subtitle: >
+#   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
+item    :
+  - icon1  : ion-android-arrow-up
+    title1 : CLIENT REQUIREMENTS
+    description1 : >
+      Start by gathering all prerequisite, analyzing and comprehending what our clients desires to build. 
+      Doing personalized projects means that we are committed to working with and for our clients together through the possibility of monitoring the entire process.
+
+
+  - icon2  : ion-android-desktop
+    title2 : MAPPING
+    description2 : >
+      Once all requirements are collected, analyze what would be the best way to approach the project, creating flowcharts and drafting out each step of the process, suggest on what will be the best technologies to use, and create a proposal which satisfies all of our clients requirements.
+
+
+  - icon3  : ion-android-desktop
+    title3 : EXECUTION & COMMUNICATION
+    description3 : >
+      With our clients approval, start the development process, writing out code, testing it and creating the desired product. Focused on fulfilling all of our clients needs, this is done by having constant communication, and a transparent process, where our client is the one approving every change and step on the development process. Collaboration with our client ensures the software is top notch and functioning properly.
+
+
+  - icon4  : ion-android-desktop
+    title4 : FINAL PRODUCT 
+    description4 : >
+      Crossing the finish line! The product is completed and delivered to our clients, BUT we don’t stop here, we want complete satisfaction, keeping our doors open for our clients, for any queries on our delivered products.
+
+  - icon  : ion-android-desktop
+
+

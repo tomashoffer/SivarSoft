@@ -1,0 +1,104 @@
+baseURL = "http://sivarsoft.com/"
+languageCode = "en-us"
+title = "SivarSoft"
+theme = "timer-hugo"
+
+# We Used Ionicons Icon font for Icon, for more details check this link - https://ionicons.com/
+
+# Navbar Menus
+[[menu.main]]
+name    = "About"
+url     = "about"
+weight  = 2
+#[[menu.main]]
+#name    = "Service"
+#url     = "service"
+#weight  = 3
+#[[menu.main]]
+#name    = "Gallery"
+#url     = "gallery"
+#weight  = 4
+#[[menu.main]]
+#name    = "Blog"
+#url     = "blog"
+#weight  = 5
+[[menu.main]]
+name    = "Contact"
+url     = "contact"
+weight  = 6
+
+# Site Params
+[params]
+home = "Home"
+logo = "images/iconlogo.png"
+dateFormat = "6 January 2006"
+# Meta data
+description = "Airspace Hugo theme"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# contact form action
+contactFormAction = "https://formspree.io/contact@sivarsoft.com" # contact form works with https://formspree.io
+
+# Banner Section
+[params.banner]
+enable  = true
+bgImage = "images/slider.jpg"
+heading = "</ SIVARSOFT />	"
+description = "We thrive on creating GOOD and RELIABLE software for our clients"
+# button
+btn     = true
+btnText = "Learn More"
+btnURL  = "http://www.sivarsoft.com/about"
+
+# flip text
+[[params.banner.flipText]]
+title   = "DREAM BIG"
+[[params.banner.flipText]]
+title   = "WORK HARD"
+[[params.banner.flipText]]
+title   = "MAKE IT HAPPEN"
+
+# Homepage About Section
+# [params.about]
+# enable  = true
+# title   = "ABOUT US"
+# content = "We carry out all kinds of technological development tailored for individuals, startups and corporations in all areas, types and sizes. We focus on fulfilling our customers' needs in a fluid and transparent process. Trying to be as efficient as possible while delivering excellent results."
+# #image   = "images/about/about.jpg"
+
+# [params.mision]
+# enable  = true
+# title   = "MISION"
+# content = "We aim to provide the most innovative technologies, guaranteeing professionalism and fulfilling our commitments. We seek to empower our clients based on the quality of our products and their agile use."
+
+# [params.vision]
+# enable  = true
+# title   = "VISION"
+# content = "We want to be committed to the problems of our clients in a transparent and effective way, thus being their trusted choice. In our vision we want to be a company of reference, embraced by constant technological changes. We consider that we must work ethically and satisfactorily for us and our clients."
+
+# Call to Action
+[params.cta]
+enable  = true
+#title   = ""
+#content = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nobis,<br>possimus commodi, fugiat magnam temporibus vero magni recusandae? Dolore, maxime praesentium."
+btnText = "Contact US"
+btnURL  = "/contact"
+
+# Portfolio Section On Homepage
+#[params.portfolio]
+#enable  = true
+#title   = "Latest Works"
+#subtitle= "Aliquam lobortis. Maecenas vestibulum mollis diam. Pellentesque auctor neque nec urna. Nulla sit amet est. Aenean posuere tortor sed cursus feugiat, nunc augue blandit nunc, eu sollicitudin urna dolor sagittis lacus."
+
+# social icon
+# [[params.socialIcon]]
+# icon = "ion-social-github"
+# url = "#"
+
+# [[params.socialIcon]]
+# icon = "ion-social-instagram"
+# url = "#"
+
+# [[params.socialIcon]]
+# icon = "ion-social-linkedin"
+# url = "#"

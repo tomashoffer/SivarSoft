@@ -1,0 +1,15 @@
+enable  : true
+  
+image   : images/about/about-company.png
+aboutItem:
+  - title : Why Choose Us
+    description: > 
+      We carry out all kinds of technological development tailored for individuals, startups and corporations in all areas, types and sizes. We focus on fulfilling our customers' needs in a fluid and transparent process. Trying to be as efficient as possible while delivering excellent results.
+
+  - title : Mision
+    description: > 
+      We aim to provide the most innovative technologies, guaranteeing professionalism and fulfilling our commitments. We seek to empower our clients based on the quality of our products and their agile use.
+
+  - title : Vision
+    description: > 
+      We want to be committed to the problems of our clients in a transparent and effective way, thus being their trusted choice. In our vision we want to be a company of reference, embraced by constant technological changes. We consider that we must work ethically and satisfactorily for us and our clients.

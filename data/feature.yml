@@ -1,0 +1,34 @@
+enable  : true
+title   : What we offer
+# subtitle: >
+#   Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed, <br> quasi dolores numquam dolor vero ex, tempora commodi repellendus quod laborum.
+item    :
+  - icon  : ion-android-options
+    title : Custom Software
+    description : >
+      We develop a wide variety of customized software using the best technological tools, ensuring quality in all our projects.
+
+  - icon  : ion-android-color-palette
+    title : Interface Design
+    description : >
+      We make personalized and responsive designs, adaptable to any desired platform, respecting the indications of our clients.
+
+  - icon  : ion-ios-people
+    title : IT Consultant
+    description : >
+      We offer consulting services, for process improvement on any type of software as well as its maintenance or redesign.
+
+  - icon  : ion-android-phone-portrait
+    title : Web/Mobile Apps
+    description : >
+      We create multi platform web and mobile applications based on new technologies with their respective / updated version.
+
+  - icon  : ion-android-settings
+    title : DevOps Engineer
+    description : >
+      We provide software analysis on infrastructure as well as generating new updates and versions.
+  
+  - icon  : ion-android-desktop
+    title : System Admin
+    description : >
+      We carry out administration and maintenance of existing systems to ensure proper operation.
